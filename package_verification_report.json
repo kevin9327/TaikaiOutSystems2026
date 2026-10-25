@@ -1,0 +1,16 @@
+{
+  "competition": "TAIKAI \u2014 OutSystems Developer Challenge 2026",
+  "directory": "TaikaiOutSystems2026",
+  "prize_pool_cash": "$22,500 USD Cash Pool",
+  "banner_verified": true,
+  "banner_size_bytes": 94846,
+  "files_verified": [
+    "README.md",
+    "banner.png",
+    "index.html",
+    "outsystems_cover.png",
+    "outsystems_logo.png"
+  ],
+  "verification_status": "PASSED_FULL_STACK_PACKAGE_VERIFICATION",
+  "sha256": "15f2d824a76ffb72a9e9b28c81386862c0bb199d54356edde0438b8140ad772f"
+}
